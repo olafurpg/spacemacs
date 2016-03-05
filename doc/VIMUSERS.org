@@ -431,6 +431,7 @@ the variable in your =dotspacemacs/user-config= like this:
     (setq-default evil-escape-key-sequence "jk"))
 #+end_src
 
+Note: common combinations like "jj" may not work.
 More documentation is found in the =evil-escape= [[https://github.com/syl20bnr/evil-escape/blob/master/README.md][README]].
 
 *** Changing the colorscheme
